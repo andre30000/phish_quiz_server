@@ -1,0 +1,414 @@
+{
+  "quiz": {
+      "quizId": "phish_quiz",
+      "title": "What Phish song are you?",
+      "subtitle": "Are you vibrating with love and light or Type 2?",
+      "content": [
+          {
+              "id": 0,
+              "questionText": "You show up to the show early. Where are you posting up",
+              "answerOptions": [
+                  {
+                      "text": "Lawn",
+                      "ques": "Chill spot on the lawn",
+                      "score" : 1,
+                      "quip": "the guy"
+                  },
+                  {
+                      "text": "Rail",
+                      "ques": "Gotta ride the rail",
+                      "score": 2,
+                      "quip": "the guy2"
+                  },
+                  {
+                      "text": "Tarp",
+                      "ques": "Me and Greg layin down the tarps - don't get in our space",
+                      "score": -200,
+                      "quip": "the guy3"
+                  },
+               {
+                      "text": "Lot",
+                      "ques": "Spun on the lot, never made it in the venue",
+                      "score": 4,
+                      "quip": "the guy3"
+                  }
+              ]
+          },
+          {
+              "id": 1,
+              "questionText": "How many times have you been divorced",
+              "answerOptions": [
+                  {
+                      "text": "zero",
+                      "ques": "Happily married, never divorced",
+                      "score" : 1,
+                      "quip": "she doesn't love phish but goes to NYE night one sometimes"
+                  },
+                  {
+                      "text": "one",
+                      "ques": "Once",
+                      "score": 3,
+                      "quip": "it didn't work out, we're still friends"
+                  },
+                  {
+                      "text": "nevermarried",
+                      "ques": "Never married",
+                      "score": 2,
+                      "quip": "i'm undateable - or 17"
+                  },
+                  {
+                      "text": "three",
+                      "ques": "Three +",
+                      "score": 900,
+                      "quip": "its not me, theyre all bitches"
+                  }
+              ]
+          },
+	  {
+              "id": 2,
+              "questionText": "You get handed the aux, what are you putting on",
+              "answerOptions": [
+                  {
+                      "text": "Farmhouse",
+                      "ques": "Farmhouse - beginner phish for the noobs in the car",
+                      "score" : 1,
+                      "quip": "they aren't phans but maybe they could be?"
+                  },
+                  {
+                      "text": "bigcypress",
+                      "ques": "Big Cypress set 3",
+                      "score": 3,
+                      "quip": "12 hours LETS GOO"
+                  },
+                  {
+                      "text": "social_acceptance",
+                      "ques": "A normal song that fits the vibe of the moment",
+                      "score": 2,
+                      "quip": "your girlfriend likes MGMT"
+                  },
+                  {
+                      "text": "tweezer",
+                      "ques": "12/2/95 tweezer",
+                      "score": 4,
+                      "quip": "what other option is there really tho"
+                  }
+              ]
+          },
+	  {
+              "id": 3,
+              "questionText": "What beer are you drinking on lot",
+              "answerOptions": [
+                  {
+                      "text": "samsmith",
+                      "ques": "Sam Smith brown ale",
+                      "score" : 4,
+                      "quip": "you gotta know"
+                  },
+                  {
+                      "text": "ipa",
+                      "ques": "Headiest IPA that you can't find in this county",
+                      "score": 3,
+                      "quip": "its from colorado bruh"
+                  },
+                  {
+                      "text": "cheapbeer",
+                      "ques": "Whatever cheap beer your big titty friend has in her patchwork purse",
+                      "score": 1,
+                      "quip": "you guys sleep together sometimes"
+                  },
+                  {
+                      "text": "lotbeer",
+                      "ques": "I'm buying coldies on lot with my burritos",
+                      "score": 2,
+                      "quip": "1 for 3, 2 for 5"
+                  }
+              ]
+          },
+	  {
+              "id": 4,
+              "questionText": "Bathroom break - when you goin?",
+              "answerOptions": [
+                  {
+                      "text": "setbreak",
+                      "ques": "Set break",
+                      "score" : 1,
+                      "quip": "never miss the music"
+                  },
+                  {
+                      "text": "horn",
+                      "ques": "Horn",
+                      "score": 4,
+                      "quip": "no jammy, no watchy"
+                  },
+                  {
+                      "text": "lawn",
+                      "ques": "Pissing in the lawn when no one is looking",
+                      "score": -10,
+                      "quip": "can't lose this spot pham"
+                  },
+                  {
+                      "text": "hold",
+                      "ques": "Before and after the show only",
+                      "score": 3,
+                      "quip": "PURE BLISS"
+                  }
+              ]
+          },
+	  {
+              "id": 5,
+              "questionText": "Will you see phish while sober",
+              "answerOptions": [
+                  {
+                      "text": "never",
+                      "ques": "I'm here for the music! (AKA NEVER SOBER)",
+                      "score" : 1,
+                      "quip": "rageface"
+                  },
+                  {
+                      "text": "bittersweetmotel",
+                      "ques": "Musical appreciation?",
+                      "score": 3,
+                      "quip": "harmonica"
+                  },
+                  {
+                      "text": "quoteunquoteyes",
+                      "ques": "Yeah I'll go sober (just beer and weed)",
+                      "score": 2,
+                      "quip": "the other guy3"
+                  },
+                  {
+                      "text": "yes",
+                      "ques": "Sure, I'm here for the music",
+                      "score": 4,
+                      "quip": "support the phellowship plz"
+                  }
+              ]
+          },
+	  {
+              "id": 6,
+              "questionText": "How many times have you been to Mexico",
+              "answerOptions": [
+                  {
+                      "text": "zero",
+                      "ques": "Zero",
+                      "score" : 2,
+                      "quip": "those shows are mid dude"
+                  },
+                  {
+                      "text": "one",
+                      "ques": "One",
+                      "score": 4,
+                      "quip": "amazing"
+                  },
+                  {
+                      "text": "two",
+                      "ques": "Two",
+                      "score": 3,
+                      "quip": "was a good time"
+                  },
+                  {
+                      "text": "three",
+                      "ques": "Three +",
+                      "score": 500,
+                      "quip": "yeah i'm rich"
+                  }
+              ]
+          },
+          {
+              "id": 7,
+              "questionText": "What's your dogs name",
+              "answerOptions": [
+                  {
+                      "text": "Traditional",
+                      "ques": "Rover, Max, Fido, etc.",
+                      "score" : 1,
+                      "quip": "come here boy good boy"
+                  },
+                  {
+                      "text": "Harpua",
+                      "ques": "Harpua",
+                      "score": 4,
+                      "quip": "fat sweaty bulldog"
+                  },
+                  {
+                      "text": "Marley",
+                      "ques": "Marley",
+                      "score": 3,
+                      "quip": "whos the marmar"
+                  },
+                  {
+                      "text": "Molly",
+                      "ques": "Molly",
+                      "score": 700,
+                      "quip": "my dog ate all the grilled cheese sorry okay we'll get out of here"
+                  }
+              ]
+          }
+      ],
+      "answers": [
+              {
+              "combination": -100,
+              "text": "Gin and Juice (limewire) - this is [0]",
+              "image": "https://images.unsplash.com/photo-1452195100486-9cc805987862?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&w=400&h=400&fit=fillmax",
+              "alt": "gin and juice"
+              },
+              {
+              "combination": 500,
+              "text": "Mexican Cousin this is [1]",
+              "image": "https://images.unsplash.com/photo-1618164436241-4473940d1f5c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+              "alt":  "maxican cousin"
+              },
+              {
+              "combination": 900,
+              "text": "Soul Planet this is [2]",
+              "image": "https://images.unsplash.com/photo-1626957341926-98752fc2ba90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+              "alt":  "soul planet"
+              },
+              {
+              "combination": 700,
+              "text": "Makisupa Policeman this is [3]",
+              "image": "https://images.unsplash.com/photo-1598167912234-02576c0c5f16?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+              "alt":  "makisupa"
+              },
+              {
+              "combination": 11,
+              "text": "Boucing Around the Room this is [4]",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Queso_Goya.jpg",
+              "alt":  "bouncing"
+              },
+              {
+              "combination": 12,
+              "text": "Farmhouse",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Cowgirl_Creamery_Point_Reyes_-_Red_Hawk_cheese.jpg",
+              "alt":  "farmhouse"
+              },
+              {
+              "combination": 13,
+              "text": "Sparkle",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pepperjack_Cheese.jpg",
+              "alt":  "sparkle"
+              },
+              {
+              "combination": 14,
+              "text": "Possum",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nachos_supreme.jpg/270px-Nachos_supreme.jpg",
+              "alt":  "possum"
+              },
+              {
+              "combination": 15,
+              "text": "Water in the Sky",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Block_of_Muenster_cheese.jpg",
+              "alt":  "waterin the sky"
+              },
+              {
+              "combination": 16,
+              "text": "Punch You in the Eye",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cheese_30_bg_051906.jpg",
+              "alt":  "PYITE"
+              },
+              {
+              "combination": 17,
+              "text": "Twist",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Brickcheese.jpg",
+              "alt":  "twist"
+              },
+              {
+              "combination": 18,
+              "text": "Tweezer",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Quesillo_de_Oaxaca.png",
+              "alt":  "tweezer"
+              },
+              {
+              "combination": 19,
+              "text": "Weekapaug Groove",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fromage_criollo._%2815228806466%29.jpg",
+              "alt":  "weekapaug"
+              },
+              {
+              "combination": 20,
+              "text": "Divided Sky",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tlayuda_con_Quesillo%2C_Oaxaca.jpg",
+              "alt":  "divided"
+              },
+              {
+              "combination": 21,
+              "text": "Wolfman's Brother",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Queso_a%C3%B1ejo.JPG/270px-Queso_a%C3%B1ejo.JPG",
+              "alt":  "wolfman"
+              },
+              {
+              "combination": 22,
+              "text": "Golgi Apparatus",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Adobera.png/270px-Adobera.png",
+              "alt":  "golgi"
+              },
+              {
+              "combination": 23,
+              "text": "Moma Dance",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Quesillo_de_Oaxaca.png/270px-Quesillo_de_Oaxaca.png",
+              "alt":  "moma"
+              },
+              {
+              "combination": 24,
+              "text": "Ghost",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cuajada.jpg",
+              "alt":  "ghost"
+              },
+              {
+              "combination": 25,
+              "text": "Harpua",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Queso_Turrialba.jpg",
+              "alt":  "harpua"
+              },
+      
+              {
+              "combination": 26,
+              "text": "NICU",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Palmito_cheese.jpg",
+              "alt":  "nicu"
+              },
+              {
+              "combination": 27,
+              "text": "You Enjoy Myself",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pikauba_%28fromage%29_03.jpg/270px-Pikauba_%28fromage%29_03.jpg",
+              "alt":  "yem"
+              },
+              {
+              "combination": 28,
+              "text": "Reba",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Halloumislicefresh.jpg/270px-Halloumislicefresh.jpg",
+              "alt":  "reba"
+              },
+              {
+              "combination": 29,
+              "text": "Carini",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/White_cheese_from_Turkey.jpg/270px-White_cheese_from_Turkey.jpg",
+              "alt":  "carini"
+              },
+              {
+              "combination": 30,
+              "text": "Fluffhead",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/%D8%AC%D8%A8%D9%86%D8%A9_%D9%86%D8%A7%D8%A8%D9%84%D8%B3%D9%8A%D8%A9.jpg",
+              "alt":  "Fluff"
+              },
+              {
+              "combination": 31,
+              "text": "Dinner and a Movie",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Jameed.JPG/270px-Jameed.JPG",
+              "alt":  "DAAM"
+              },
+              {
+              "combination": 32,
+              "text": "Tela",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Labneh01.jpg",
+              "alt":  "Tela"
+              },
+              {
+              "combination": 3,
+              "text": "outlier",
+              "image": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2073&q=80",
+              "alt":  "sanite colome"
+              }
+      ]
+  }
+}
